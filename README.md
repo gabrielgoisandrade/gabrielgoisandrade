@@ -25,10 +25,9 @@ Atualmente, já trabalho com backend utilizando Kotlin e JAVA no desenvolvimento
 
 </details>
 
+<center>
 
-<h2 align="center">Contato</h2>
-
-<h3 align="center"> 
+## Contato
 
 [![Gmail]](mailto:gabriel.gois.andrade14@gmail.com)
 [![LinkedIn]](https://www.linkedin.com/in/gabrielgoisandrade/)
@@ -46,7 +45,7 @@ Atualmente, já trabalho com backend utilizando Kotlin e JAVA no desenvolvimento
 
 [![GitHub]](https://github.com/gabrielgoisandrade)
 
-</h3>
+</center>
 
 [Kotlin]: https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white
 
