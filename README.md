@@ -1,7 +1,6 @@
-<center>
+<h2 align="center">Olá, meu nome é Gabriel! 👋</h2>
 
-## Olá, meu nome é Gabriel! 👋
-
+<h3 align="center"> 
 Desde criança sempre gostei de tecnologia, mas nunca soube por onde começar.
 Em 2018, quando entrei na faculdade, eu não sabia escrever uma linha de código e não sabia no que focar.
 Com o passar do tempo, fui descobrindo qual área melhor se encaixava ao meu perfil.
@@ -9,15 +8,16 @@ Com o passar do tempo, fui descobrindo qual área melhor se encaixava ao meu per
 A primeira linguagem que aprendi foi Python, depois JAVA e logo depois o Kotlin (meu foco principal).
 Comecei no frontend, depois em banco de dados mas logo me rendi ao backend e fiz dele o meu foco principal.
 Atualmente, já trabalho com backend utilizando Kotlin e JAVA no desenvolvimento de REST APIs, mas meu objetivo de longo prazo é ser desenvolvedor mobile. 
-
-</center>
+</h3>
 
 ![Stats]
 
 <center>
 
-## Contato
-  
+<h2 align="center">Contato</h2>
+
+<h3 align="center"> 
+
 [![Gmail]](mailto:gabriel.gois.andrade14@gmail.com)
 [![LinkedIn]](https://www.linkedin.com/in/gabrielgoisandrade/)
 
@@ -34,7 +34,7 @@ Atualmente, já trabalho com backend utilizando Kotlin e JAVA no desenvolvimento
 
 [![GitHub]](https://github.com/gabrielgoisandrade)
 
-</center>
+</h3>
 
 [Kotlin]: https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white
 
