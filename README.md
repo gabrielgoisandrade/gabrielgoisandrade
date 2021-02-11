@@ -9,6 +9,8 @@ Com o passar do tempo, fui descobrindo qual área melhor se encaixava ao meu per
 Comecei no frontend, depois em banco de dados mas logo me rendi ao backend e fiz dele o meu foco principal.
 Atualmente, já trabalho com backend utilizando Kotlin e JAVA no desenvolvimento de REST APIs, mas meu objetivo de longo prazo é ser desenvolvedor mobile. </p>
 
+<a href="https://github.com/gabrielgoisandrade/gabrielgoisandrade/blob/main/gabrielgois_cv.pdf"><h3><b>É recrutador? Clique aqui para baixar meu CV!</b></h3></a>
+
 <details>
 
 <summary>GitHub Stats</summary>
