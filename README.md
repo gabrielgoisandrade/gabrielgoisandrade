@@ -21,7 +21,7 @@ Atualmente, já trabalho com backend utilizando Kotlin e JAVA no desenvolvimento
 
 <details>
 
-<summary>Top</summary>
+<summary>Top languages</summary>
 
 ![Languages]
 
