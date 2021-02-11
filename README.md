@@ -1,18 +1,15 @@
 <h2 align="center">Olá, meu nome é Gabriel! 👋</h2>
 
-<h3 align="center"> 
+<p align="center"> 
 Desde criança sempre gostei de tecnologia, mas nunca soube por onde começar.
 Em 2018, quando entrei na faculdade, eu não sabia escrever uma linha de código e não sabia no que focar.
-Com o passar do tempo, fui descobrindo qual área melhor se encaixava ao meu perfil.
+Com o passar do tempo, fui descobrindo qual área melhor se encaixava ao meu perfil. </p>
 
-A primeira linguagem que aprendi foi Python, depois JAVA e logo depois o Kotlin (meu foco principal).
+<p align="center"> A primeira linguagem que aprendi foi Python, depois JAVA e logo depois o Kotlin (meu foco principal).
 Comecei no frontend, depois em banco de dados mas logo me rendi ao backend e fiz dele o meu foco principal.
-Atualmente, já trabalho com backend utilizando Kotlin e JAVA no desenvolvimento de REST APIs, mas meu objetivo de longo prazo é ser desenvolvedor mobile. 
-</h3>
+Atualmente, já trabalho com backend utilizando Kotlin e JAVA no desenvolvimento de REST APIs, mas meu objetivo de longo prazo é ser desenvolvedor mobile. </p>
 
 ![Stats]
-
-<center>
 
 <h2 align="center">Contato</h2>
 
