@@ -29,8 +29,8 @@ Atualmente, já trabalho com backend utilizando Kotlin e JAVA no desenvolvimento
 
 <h3 align="center"> 
 
-[![Gmail]](mailto:gabriel.gois.andrade14@gmail.com)
-[![LinkedIn]](https://www.linkedin.com/in/gabrielgoisandrade/)
+<a href="mailto:gabriel.gois.andrade14@gmail.com" target="_blank">![Gmail]</a>
+<a href="https://www.linkedin.com/in/gabrielgoisandrade/" target="_blank">![LinkedIn]</a>
 
 ---  
 
@@ -43,7 +43,7 @@ Atualmente, já trabalho com backend utilizando Kotlin e JAVA no desenvolvimento
 ![TravisCI]
 ![Heroku]
 
-[![GitHub]](https://github.com/gabrielgoisandrade)
+![GitHub]
 
 </h3>
 
